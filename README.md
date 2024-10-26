@@ -1,4 +1,4 @@
-# Taaza Khaabar Website
+# Taaza Khaabar
 
 A modern news website built with React and Vite, providing users with the latest articles, trends, and updates from various sources. This project aims to deliver a responsive and user-friendly interface for browsing news articles.
 
